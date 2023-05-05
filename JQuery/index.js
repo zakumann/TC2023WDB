@@ -1,7 +1,3 @@
 
-$("h1");
 
-$("button");
-
-
-
+$("a").attr("href", "https://www.yahoo.com");
